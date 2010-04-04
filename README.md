@@ -10,7 +10,7 @@ Feature
  - Supported to update postname from basename of Movable Type
 
 
-Wordpress version Supporeted
+WordPress version Supported
 ==============================
 
 	WordPress Version      : git-tag
